@@ -12,7 +12,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone git@github.com:RCvetinskis/e-commerce-store.git
+git clone https://github.com/RCvetinskis/e-commerce-store.git
 Navigate to the project directory:
 
 bash
