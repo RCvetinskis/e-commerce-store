@@ -53,7 +53,7 @@ Database Connection: Ensure that your database is properly configured in the .en
 Stripe Integration: If you are using Stripe for payments, set the STRIPE_API_KEY environment variable in the .env file.
 
 # Live Application
-To view the live application, go to https://e-commerce-store-fypztmezz-robertas-projects.vercel.app.
+To view the live application, go to https://e-commerce-store-mu-lake.vercel.app
 
 Features
 Product Catalog: Display your products with detailed information.
