@@ -3,11 +3,11 @@ import { getCategory } from "@/lib/category-service";
 import { getColors } from "@/lib/colors-service";
 import { getProducts } from "@/lib/product-serivce";
 import { getSizes } from "@/lib/sizes-service";
-import { Billboard } from "../../components/billboard";
-import { Filter } from "./components/filter";
+import { Billboard } from "../../_components/billboard";
+import { Filter } from "./_components/filter";
 import { NoResults } from "@/components/no-results";
 import { ProductCard } from "@/components/produt-card";
-import { MobileFilter } from "./components/mobile-filter";
+import { MobileFilter } from "./_components/mobile-filter";
 
 export const revalidate = 0;
 

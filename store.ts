@@ -1,3 +1,4 @@
+"use client";
 import { create } from "zustand";
 import { IProduct } from "./types";
 import { persist, createJSONStorage } from "zustand/middleware";

@@ -1,7 +1,6 @@
 "use client";
 import { X } from "lucide-react";
 import Image from "next/image";
-import toast from "react-hot-toast";
 
 import { IconButton } from "@/components/ui/icon-button";
 import { Currency } from "@/components/ui/currency";
