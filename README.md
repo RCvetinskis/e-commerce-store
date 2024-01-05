@@ -1,4 +1,4 @@
-E-Commerce Store
+# E-Commerce Store
 Welcome to the E-Commerce Store! This project serves as the backbone of your online store, providing a scalable and flexible platform for your customers to browse, shop, and make purchases.
 
 Getting Started
@@ -38,7 +38,7 @@ Copy code
 npm run dev
 Visit http://localhost:3000 to access the E-Commerce Store.
 
-Features
+# Features
 Product Catalog: Display your products with detailed information.
 Shopping Cart: Allow users to add products to their cart and proceed to checkout.
 Checkout Process: Guide customers through a seamless checkout experience.
@@ -52,7 +52,7 @@ Database Connection: Ensure that your database is properly configured in the .en
 
 Stripe Integration: If you are using Stripe for payments, set the STRIPE_API_KEY environment variable in the .env file.
 
-Live Application
+# Live Application
 To view the live application, go to https://e-commerce-store-fypztmezz-robertas-projects.vercel.app.
 
 Features
