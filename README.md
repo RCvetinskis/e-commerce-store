@@ -51,3 +51,12 @@ Important Notes
 Database Connection: Ensure that your database is properly configured in the .env file.
 
 Stripe Integration: If you are using Stripe for payments, set the STRIPE_API_KEY environment variable in the .env file.
+
+Live Application
+To view the live application, go to https://e-commerce-store-fypztmezz-robertas-projects.vercel.app.
+
+Features
+Product Catalog: Display your products with detailed information.
+Shopping Cart: Allow users to add products to their cart and proceed to checkout.
+Checkout Process: Guide customers through a seamless checkout experience.
+Order Management: Track and manage customer orders.
