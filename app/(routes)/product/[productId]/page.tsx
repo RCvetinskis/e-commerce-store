@@ -1,6 +1,6 @@
 import { Container } from "@/components/ui/container";
 import { getProduct, getProducts } from "@/lib/product-serivce";
-import { ProductList } from "../../_components/product-list";
+import { ProductList } from "../../../../components/product-list";
 import { Gallery } from "@/components/gallery";
 import { Info } from "@/components/info";
 interface ProductPageProps {

@@ -1,8 +1,8 @@
 import { Container } from "@/components/ui/container";
-import { Billboard } from "@/app/(routes)/_components/billboard";
+import { Billboard } from "@/components/billboard";
 import { getBillboard } from "@/lib/billboard-service";
 import { getProducts } from "@/lib/product-serivce";
-import { ProductList } from "@/app/(routes)/_components/product-list";
+import { ProductList } from "@/components/product-list";
 export const revalidate = 0;
 const HomePage = async () => {
   const billboard = await getBillboard("2e126ed4-37b8-4b5a-9471-b655ff980346");
